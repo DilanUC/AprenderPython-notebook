@@ -9,3 +9,5 @@
 - strip()
 - replace()
 - print()
+- int()
+- f
